@@ -1,0 +1,80 @@
+{
+	"general": {
+		"disableItalic": true,
+		"forceInvisibleItemFrame": false,
+		"giveClientSide": false,
+		"showSymbolButton": true,
+		"showItemSize": true,
+		"checkValidCodec": true,
+		"giveItemSizeLimit": true,
+		"minimizeHeadTexturesTag": true,
+		"removeViaVersionTags": true
+	},
+	"colors": {
+		"imagetextHologram": "#FFF1C232",
+		"imagetextMessages": "#FF71C29F",
+		"playerStatue": "#FFCB347D",
+		"usefulBlockStates": "#FF66F5B7",
+		"headGalleryName": "#FF50AF70",
+		"headGalleryTags": "#FF74D02F",
+		"favoriteColors": []
+	},
+	"guiStyle": {
+		"oldBackground": false,
+		"persistentScrollbar": true
+	},
+	"mineskin": {
+		"apiKey": "",
+		"publicSkins": false
+	},
+	"headGallery": {
+		"cacheCategories": true,
+		"setStyleToHeads": true,
+		"maxHeadsPerPage": 300,
+		"itemScale": 1.5
+	},
+	"imagetext": {
+		"defaultBookMessage": "Hover over this message to see an image",
+		"defaultItem": "minecraft:paper",
+		"defaultPreserveImageAspectRatio": true,
+		"maxResolution": 127,
+		"previewUpdateDelayInMillis": 200,
+		"defaultPercentageOfSimilarityToCompress": 2.5
+	},
+	"textFormat": {
+		"defaultItem": "minecraft:name_tag",
+		"minRainbowHueStep": 0.004999999888241291,
+		"maxRainbowHueStep": 0.15000000596046448
+	},
+	"playerStatue": {
+		"convertSkinWithAlexModelInSteveModel": true,
+		"defaultContainer": "minecraft:white_shulker_box"
+	},
+	"encryptbook": {
+		"defaultBookMessage": "Hello world",
+		"defaultBookTitle": "Encode book (%s)",
+		"padding": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_,.",
+		"separatorMessage": "-----",
+		"profiles": [
+			{
+				"seed": 0,
+				"length": 255,
+				"key": "secret_mc_%s",
+				"asymmetricValue": 0,
+				"algorithmVersion": 2
+			}
+		]
+	},
+	"headGenerator": {
+		"favoriteSkins": [],
+		"forcePreEditNoneInModels": true
+	},
+	"history": {
+		"maxItemHistory": 100,
+		"maxHeadHistory": 100,
+		"automaticallyRecoverScreens": true
+	},
+	"itemEditorBanner": {
+		"maxUndo": 75
+	}
+}

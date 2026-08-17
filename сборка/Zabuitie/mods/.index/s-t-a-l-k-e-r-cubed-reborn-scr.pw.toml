@@ -1,0 +1,25 @@
+filename = 'stalkercubedreborn_1.0.9_fix_forge.jar'
+name = 'STALKER Cubed | Reborn (SCR)'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'stalkercubedreborn_1.0.9_fix_forge.jar'
+
+[download]
+hash = 'a63b281fa112a6e86b3efbb8cc0489683d638135'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7830213
+project-id = 1284261
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

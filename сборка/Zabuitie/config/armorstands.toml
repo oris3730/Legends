@@ -1,0 +1,10 @@
+# Config version is auto-generated
+# DO NOT CHANGE
+configVersion = 1
+# Require sneaking in order to open the mod's edit GUI.
+requireSneakingToEdit = false
+# How far away armor stand names should be visible.
+# Set to 0 to fall back to default.
+nameRenderDistance = 0
+# Only render armor stand names when targeting them.
+directOnlyNameRender = true

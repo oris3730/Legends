@@ -1,0 +1,6 @@
+
+["Common Properties"]
+	#The cooldown time on grenades after throwing them, in ticks (20/sec). This must be a non-negative integer. Default = 100
+	#Range: 0 ~ 72000
+	grenadeCooldown = 100
+

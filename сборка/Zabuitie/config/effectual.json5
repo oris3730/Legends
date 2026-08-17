@@ -1,0 +1,23 @@
+{
+	"mouthSteam": true,
+	"dynamicBreathSpeed": true,
+	"bubbleBreath": true,
+	"bubbleChests": true,
+	"bubblePots": true,
+	"waterDrip": true,
+	"steamEffect": true,
+	"blockPlaceEffect": true,
+	"fireImprovements": true,
+	"campfireImprovements": true,
+	"lanternImprovements": true,
+	"fireEntitySparks": true,
+	"metalHitSparks": true,
+	"caveDust": true,
+	"caveDustFrequency": 5,
+	"runDust": true,
+	"airTrail": true,
+	"speedAura": true,
+	"levitationAura": true,
+	"witherDecay": true,
+	"minecartSparks": true
+}

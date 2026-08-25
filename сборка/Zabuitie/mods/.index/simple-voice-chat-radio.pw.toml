@@ -1,0 +1,21 @@
+filename = 'radio-1.1.1+1.20.1.fabric.jar'
+name = 'Simple Voice Chat Radio'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1+1.20.1.fabric'
+
+[download]
+hash = 'bdd0b315f7a15a620943a74c8f500e03ed20b1a19adb41e353b8d2a4cf5cfe67c5142f4eccea467e42d7cea2890bdd0e1bed0dda5758073447e06cf28eddb7b2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ab2GBNpI/versions/XuO1bkpC/radio-1.1.1%2B1.20.1.fabric.jar'
+
+[update.modrinth]
+mod-id = 'Ab2GBNpI'
+version = 'XuO1bkpC'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9eGKb6K1'
+type = 'REQUIRED'

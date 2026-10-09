@@ -10,7 +10,7 @@ Ip нужен для понятия есть ли копии и кто ориг�
 
 # Участники
 
-- Oris3730 - Oris373 - 26.50.45.2130
+- Oris3730 - Oris3730 - 26.50.45.2130
 - Xenezi - `_Xenezi_` - 26.130.118.130
 - Bonch(ЯНеКит)) - Bonch Orig - 26.98.184.60
 - Egorroger - Egorroger - 26.192.125.48
@@ -21,4 +21,7 @@ Ip нужен для понятия есть ли копии и кто ориг�
 - TANKBANKWTF - TAPOK V CHERESCHNE - 26.2.169.39
 - LEMM_RETY - LEMM_RETY 2.0 - 26.94.212.220
 - dead-Guy_ka - фембойчик астольфо - 26.218.70.104
-- - son - 26.113.99.95
+- son_shiny - son - 26.113.99.95
+- mercas228 - IALWAYSCOMEBACK - 26.5.14.173
+- r1pos - RIPOS - 26.132.157.37
+- kpakenn - Sigma - 26.107.155.97
